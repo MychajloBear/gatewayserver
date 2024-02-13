@@ -1,0 +1,7 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.maven.userSettings": "C:/apache-maven-3.9.4/conf",
+    "java.configuration.maven.globalSettings": "C:/apache-maven-3.9.4/conf",
+    "java.import.maven.enabled": true
+}
